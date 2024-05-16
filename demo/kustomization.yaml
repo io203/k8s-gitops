@@ -6,4 +6,4 @@ resources:
 - demo-ing.yaml
 images:
 - name: saturn203/demo-app
-  newTag: "3.0"
+  newTag: "1.0"
